@@ -2,7 +2,6 @@
 My name is Oleg, and I'm an epic coder as well as professional bug creator.
 
 ### Skills & tools I use:
-<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/firefox/firefox-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg"></code>
