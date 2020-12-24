@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+My name is Oleg, and I'm an epic coder as well as professional bug creator.
+
+### Skills & tools I use:
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/firefox/firefox-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/atom/atom-original.svg"></code>
 
 <!--
 **Tegnio6882/Tegnio6882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
