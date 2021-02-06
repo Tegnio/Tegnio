@@ -7,7 +7,7 @@
 I'll be posting interesting projects in quite different languages here. It'll all happen over time, so there's no need to worry. You can support me by clicking on the star near my repositories, or you can just follow me.  
 
 ### Some more information
-- 😄 Pronouns: 
+- 😄 Pronouns: tægnio
 - 🔭 I’m currently working on [Smiley the Discord bot](https://github.com/Tegnio6882/smiley)
 - 📫 How to reach me: [send me an e-mail](mailto:olegbubble@gmail.com) (you'll be redirected to your email client)
 - ⚡ Fun fact: i have a [website](https://tegnio.carrd.co/)! (sorta)
