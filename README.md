@@ -8,7 +8,8 @@ I'll be posting interesting projects in quite different languages here. It'll al
 
 ### Some more information
 - 😄 Pronouns: tægnio
-- 🔭 I’m currently working on [Smiley the Discord bot](https://github.com/Tegnio6882/smiley)
+- 📈 My biggest project so far: [Smiley the Discord bot](https://github.com/Tegnio/smiley)
+- 🔭 I’m currently working on... nothing?
 - 📫 How to reach me: [send me an e-mail](mailto:olegbubble@gmail.com) (you'll be redirected to your email client)
 - ⚡ Fun fact: i have a [website](https://tegnio.carrd.co/)! (sorta)
 
@@ -21,5 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
