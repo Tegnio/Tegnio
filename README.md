@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/73775612?v=4" height="200" width="200">
+<img align="right" src="https://avatars.githubusercontent.com/u/73775612?v=5" height="200" width="200">
 
 ## Hi there 👋
 ### My name is Oleg, and I'm an epic coder as well as professional bug creator.
