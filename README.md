@@ -8,7 +8,7 @@
 - 📈 My biggest project so far: [Smiley the Discord bot](https://github.com/Tegnio/smiley)
 - 🔭 I’m currently working on... nothing
 - 📫 How to reach me: [send me an e-mail](mailto:olegbubble@gmail.com) (you'll be redirected to your email client)
-- ⚡ Fun fact: I was a Discord bot developer!
+- ⚡ Fun fact: I am a Discord bot developer.
 
 <!--
 **Tegnio/Tegnio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
