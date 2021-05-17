@@ -6,7 +6,7 @@
 ### Some more information
 - 😄 Pronouns: tægnio
 - 📈 My biggest project so far: [Smiley the Discord bot](https://github.com/Tegnio/smiley)
-- 🔭 I’m currently working on... nothing
+- 🔭 I’m currently working on... [Muffin. yet another Discord bot](https://github.com/Tegnio/muffin)
 - 📫 How to reach me: [send me an e-mail](mailto:olegbubble@gmail.com) (you'll be redirected to your email client)
 - ⚡ Fun fact: I am a Discord bot developer.
 
