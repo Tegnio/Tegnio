@@ -4,19 +4,19 @@
 ### I'm an epic coder as well as professional bug creator.
 
 ### Some more information
-- 😄 Pronouns: tægnio
+- 🌱 I’m currently learning Node.js
 - 📈 My biggest project so far: [Smiley the Discord bot](https://github.com/Tegnio/smiley)
 - 🔭 I’m currently working on... [Muffin, yet another Discord bot](https://github.com/Tegnio/muffin)
 - 📫 How to reach me: [send me an e-mail](mailto:olegbubble@gmail.com) (you'll be redirected to your email client)
-- ⚡ Fun fact: I am a Discord bot developer.
+- ⚡ Fun fact: I like hippos 🦛
 
 <!--
 **Tegnio/Tegnio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
